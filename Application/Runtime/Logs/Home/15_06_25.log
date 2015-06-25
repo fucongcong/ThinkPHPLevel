@@ -1401,3 +1401,179 @@ INFO: [ app_end ] --START--
 INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
 INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
 
+[ 2015-06-25T11:18:45+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2015-06-25T11:44:54+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2015-06-25T11:44:55+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2015-06-25T11:47:26+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000727s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000884s ]
+
+[ 2015-06-25T11:47:26+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000185s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2015-06-25T11:47:27+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2015-06-25T11:47:32+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `user` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000100s ]
+
+[ 2015-06-25T11:48:19+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000217s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0008s ]
+SQL: SELECT * FROM `user` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000110s ]
+
+[ 2015-06-25T11:48:20+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000155s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000053s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000084s ]
+
+[ 2015-06-25T11:48:22+08:00 ] 127.0.0.1 /tp/Home/Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 19 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+

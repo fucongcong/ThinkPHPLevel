@@ -10,4 +10,4 @@ $loader = require __DIR__.'/vendor/autoload.php';
 
 $loader->setUseIncludePath(true);
 
-require './ThinkPHP/ThinkPHP.php';
+require './vendor/ThinkPHP/ThinkPHP.php';

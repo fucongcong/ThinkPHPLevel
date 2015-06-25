@@ -101,7 +101,9 @@ class View {
     public function render($tpl,$array=array())
     {
         $loader = new Twig_Loader_Filesystem('./');
-        $twig = new Twig_Environment($loader);
+        $twig = new Twig_Environment($loader,array(
+            'cache' =>'./Application/Runtime/Temp'
+            ));
         $twig->addExtension(new WebExtension());
         echo $twig->render($tpl,$array);
 
