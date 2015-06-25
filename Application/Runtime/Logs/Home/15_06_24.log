@@ -1,0 +1,3840 @@
+[ 2015-06-24T14:28:45+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+
+[ 2015-06-24T14:30:01+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.089599s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.039599s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.039669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.038117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.038200s ]
+
+[ 2015-06-24T14:31:33+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000461s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000029s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2015-06-24T14:33:57+08:00 ] 127.0.0.1 /tp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000209s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000057s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000095s ]
+
+[ 2015-06-24T14:34:07+08:00 ] 127.0.0.1 /tp/index.php/home/test/indx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000176s ]
+ERR: 非法操作:indx
+
+[ 2015-06-24T14:34:11+08:00 ] 127.0.0.1 /tp/index.php/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+
+[ 2015-06-24T14:34:25+08:00 ] 127.0.0.1 /tp/index.php/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+
+[ 2015-06-24T14:49:29+08:00 ] 127.0.0.1 /tp/index.php/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000574s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000618s ]
+
+[ 2015-06-24T14:53:46+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000541s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000172s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000578s ]
+
+[ 2015-06-24T14:53:55+08:00 ] 127.0.0.1 /tp/index.php/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+
+[ 2015-06-24T14:56:21+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+
+[ 2015-06-24T14:56:57+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+
+[ 2015-06-24T14:57:43+08:00 ] 127.0.0.1 /tp/index.php/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+
+[ 2015-06-24T15:07:17+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008953s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000298s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000789s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000838s ]
+
+[ 2015-06-24T15:22:22+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001562s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000047s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000070s ]
+
+[ 2015-06-24T15:23:09+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002988s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000178s ]
+
+[ 2015-06-24T15:23:32+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000017s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000047s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000793s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000046s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2015-06-24T15:23:42+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001486s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2015-06-24T15:23:43+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000181s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000035s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001773s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000151s ]
+
+[ 2015-06-24T15:24:08+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.html
+
+[ 2015-06-24T15:25:15+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:25:16+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:25:21+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:25:21+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:25:22+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:25:22+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:25:59+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:26:23+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index
+
+[ 2015-06-24T15:26:24+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index
+
+[ 2015-06-24T15:26:26+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:26:31+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.html
+
+[ 2015-06-24T15:26:53+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:26:53+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:27:17+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000190s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.twig.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:27:54+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.tiwg.html.tiwg
+
+[ 2015-06-24T15:28:03+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:04+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000198s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:04+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:05+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:05+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:05+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:05+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000179s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:28:06+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000085s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:10+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:11+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:11+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:12+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:12+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000203s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:12+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:12+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:13+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000203s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:33+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:33+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:35+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:35+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.tiwg.tiwg
+
+[ 2015-06-24T15:29:42+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000033s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001532s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001593s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000067s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2015-06-24T15:30:01+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+ERR: 模板不存在:./Application/Home/View/./Application/Home/View/Index/index.html.html
+
+[ 2015-06-24T15:30:22+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001432s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000116s ]
+
+[ 2015-06-24T15:30:23+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000029s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000084s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000086s ]
+
+[ 2015-06-24T15:30:33+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+ERR: Unable to find template "./Application/Home/View/Index/index.html.twig" (looked into: Application).
+
+[ 2015-06-24T15:31:39+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+ERR: There are no registered paths for namespace "__main__".
+
+[ 2015-06-24T15:31:43+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+ERR: Unable to find template "./Application/Home/View/Index/index.html.twig" (looked into: Application).
+
+[ 2015-06-24T15:31:48+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+ERR: Unable to find template "./Application/Home/View/Index/index.html.twig" (looked into: ).
+
+[ 2015-06-24T15:32:05+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2015-06-24T15:32:20+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000104s ]
+
+[ 2015-06-24T15:32:26+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-06-24T15:32:47+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000183s ]
+ERR: Unable to find template "./Application/Home/View/Index/index.html.twig" (looked into: ..).
+
+[ 2015-06-24T15:33:01+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000216s ]
+
+[ 2015-06-24T15:33:17+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2015-06-24T15:33:17+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2015-06-24T15:33:18+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2015-06-24T15:33:23+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000105s ]
+
+[ 2015-06-24T15:33:23+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000148s ]
+
+[ 2015-06-24T15:33:24+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000088s ]
+
+[ 2015-06-24T15:33:24+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000167s ]
+
+[ 2015-06-24T15:33:24+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000181s ]
+
+[ 2015-06-24T15:33:24+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000185s ]
+
+[ 2015-06-24T15:33:25+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000214s ]
+
+[ 2015-06-24T15:33:25+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000059s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2015-06-24T15:33:25+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000136s ]
+
+[ 2015-06-24T15:34:12+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000196s ]
+
+[ 2015-06-24T15:34:21+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000099s ]
+
+[ 2015-06-24T15:39:54+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+
+[ 2015-06-24T15:40:23+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+
+[ 2015-06-24T15:40:35+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-06-24T15:40:38+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000061s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2015-06-24T15:42:45+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+ERR: Unable to find template "Home/View/layout.html.twig" (looked into: .).
+
+[ 2015-06-24T15:43:03+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000174s ]
+
+[ 2015-06-24T15:43:17+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000079s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000121s ]
+
+[ 2015-06-24T15:47:12+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-06-24T15:48:18+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2015-06-24T15:48:28+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000135s ]
+
+[ 2015-06-24T15:49:10+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000163s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000247s ]
+
+[ 2015-06-24T15:49:33+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000169s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2015-06-24T15:49:57+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000113s ]
+
+[ 2015-06-24T15:50:28+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2015-06-24T15:50:34+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000183s ]
+
+[ 2015-06-24T15:50:43+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000140s ]
+
+[ 2015-06-24T15:50:52+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000069s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000109s ]
+
+[ 2015-06-24T15:51:00+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000224s ]
+
+[ 2015-06-24T15:51:26+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000062s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2015-06-24T15:51:42+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000122s ]
+
+[ 2015-06-24T15:53:46+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000153s ]
+
+[ 2015-06-24T15:54:34+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000161s ]
+
+[ 2015-06-24T15:54:35+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2015-06-24T15:54:51+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2015-06-24T15:54:51+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000137s ]
+
+[ 2015-06-24T15:54:52+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000095s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000150s ]
+
+[ 2015-06-24T15:54:52+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000077s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000120s ]
+
+[ 2015-06-24T15:54:54+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2015-06-24T15:55:07+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2015-06-24T15:55:10+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000065s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000106s ]
+
+[ 2015-06-24T15:55:11+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000147s ]
+
+[ 2015-06-24T15:55:40+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000091s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000144s ]
+
+[ 2015-06-24T15:55:40+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000145s ]
+
+[ 2015-06-24T15:55:41+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000141s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000212s ]
+
+[ 2015-06-24T15:55:41+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000102s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2015-06-24T15:55:49+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000126s ]
+
+[ 2015-06-24T15:56:08+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2015-06-24T15:56:24+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000139s ]
+
+[ 2015-06-24T15:56:34+08:00 ] 127.0.0.1 /tp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2015-06-24T15:56:49+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+
+[ 2015-06-24T15:56:58+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+
+[ 2015-06-24T15:56:59+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+
+[ 2015-06-24T15:57:00+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+
+[ 2015-06-24T15:57:00+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000080s ]
+
+[ 2015-06-24T15:57:00+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+
+[ 2015-06-24T15:57:01+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+
+[ 2015-06-24T15:57:01+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+
+[ 2015-06-24T15:57:01+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000163s ]
+
+[ 2015-06-24T15:57:10+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2015-06-24T15:57:10+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:10+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:10+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:10+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:15+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-06-24T15:57:15+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:15+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:15+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:15+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:17+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:17+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:52+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000083s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-06-24T15:57:52+08:00 ] 127.0.0.1 /tp/home/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000160s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-06-24T15:57:52+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:52+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:57:52+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:03+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000117s ]
+
+[ 2015-06-24T15:58:03+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:03+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:03+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:03+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:06+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000142s ]
+
+[ 2015-06-24T15:58:07+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:07+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:07+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:12+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2015-06-24T15:58:12+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:12+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:23+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000118s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000184s ]
+
+[ 2015-06-24T15:58:23+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:23+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:23+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:28+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2015-06-24T15:58:28+08:00 ] 127.0.0.1 /tp/home/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+ERR: 无法加载控制器:Public
+
+[ 2015-06-24T15:58:28+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:58:28+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:59:32+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2015-06-24T15:59:32+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:59:32+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T15:59:32+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:00:18+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000282s ]
+
+[ 2015-06-24T16:00:18+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:00:18+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:00:18+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:00:18+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:40+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000200s ]
+
+[ 2015-06-24T16:02:40+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000116s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:40+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:40+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:40+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:41+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2015-06-24T16:02:41+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:41+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:41+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:41+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000151s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000172s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:49+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000108s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000141s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000174s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000092s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000154s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000223s ]
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:50+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000111s ]
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000205s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000090s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000169s ]
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000175s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:55+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000136s ]
+
+[ 2015-06-24T16:02:55+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:55+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:55+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:02:55+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:06+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2015-06-24T16:03:06+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:06+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:06+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:06+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:07+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000131s ]
+
+[ 2015-06-24T16:03:07+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000068s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:07+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:07+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:07+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:15+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000180s ]
+
+[ 2015-06-24T16:03:18+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000159s ]
+
+[ 2015-06-24T16:03:18+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000173s ]
+
+[ 2015-06-24T16:03:38+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000169s ]
+
+[ 2015-06-24T16:03:42+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2015-06-24T16:03:51+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000087s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000134s ]
+
+[ 2015-06-24T16:03:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:03:58+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000215s ]
+
+[ 2015-06-24T16:04:38+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000179s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000196s ]
+
+[ 2015-06-24T16:04:38+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:04:38+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:04:38+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:04:38+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:09:09+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+ERR: The function "asset" does not exist in "./Public/layout.html.twig" at line 17
+
+[ 2015-06-24T16:09:18+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000185s ]
+
+[ 2015-06-24T16:09:18+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000088s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:09:18+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:09:18+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:41+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000177s ]
+
+[ 2015-06-24T16:19:41+08:00 ] 127.0.0.1 /tp/home/test/Public/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:41+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:41+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:41+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000091s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:54+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000170s ]
+
+[ 2015-06-24T16:19:54+08:00 ] 127.0.0.1 /tp/home/test/__PUBLIC__/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:__PUBLIC__
+
+[ 2015-06-24T16:19:54+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:54+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:19:54+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000082s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:44:28+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+
+[ 2015-06-24T16:45:41+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000180s ]
+
+[ 2015-06-24T16:45:51+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000133s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2015-06-24T16:45:51+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:45:51+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000276s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:45:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:45:51+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:45:59+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000160s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000060s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000094s ]
+
+[ 2015-06-24T16:45:59+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:45:59+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:45:59+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000057s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000093s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:45:59+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000100s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:14+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000109s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000158s ]
+
+[ 2015-06-24T16:46:14+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000157s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:14+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:14+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:14+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000162s ]
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000110s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000075s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000102s ]
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:15+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000102s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000194s ]
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000105s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000193s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000071s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000112s ]
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000154s ]
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:16+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:42+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000123s ]
+
+[ 2015-06-24T16:46:42+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:42+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:46:42+08:00 ] 127.0.0.1 /tp/home/test/__Root_css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+ERR: 非法操作:__Root_css
+
+[ 2015-06-24T16:46:42+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:47:10+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Use of undefined constant __Root_ - assumed '__Root_' /var/www/tp/Application/Twig/WebExtension.php 第 17 行.
+
+[ 2015-06-24T16:47:20+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+
+[ 2015-06-24T16:47:20+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000107s ]
+
+[ 2015-06-24T16:47:21+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000098s ]
+
+[ 2015-06-24T16:47:21+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000125s ]
+
+[ 2015-06-24T16:47:22+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+
+[ 2015-06-24T16:47:38+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000140s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000193s ]
+
+[ 2015-06-24T16:47:38+08:00 ] 127.0.0.1 /tp/home/test/12121css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000129s ]
+ERR: 非法操作:12121css
+
+[ 2015-06-24T16:47:38+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:47:38+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:47:38+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:48:08+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000049s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000175s ]
+
+[ 2015-06-24T16:48:08+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:48:08+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000113s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:48:08+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:34+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000194s ]
+
+[ 2015-06-24T16:49:34+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000147s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:34+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:34+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000097s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:38+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000173s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000114s ]
+
+[ 2015-06-24T16:49:38+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000161s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:38+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:38+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000128s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:39+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2015-06-24T16:49:39+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:39+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:49:39+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:51:21+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2015-06-24T16:51:21+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000110s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:51:21+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:51:21+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:02+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000166s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000111s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000164s ]
+
+[ 2015-06-24T16:54:02+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:02+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000062s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:02+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:05+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000115s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2015-06-24T16:54:05+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000225s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:05+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000172s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:05+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:08+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000156s ]
+
+[ 2015-06-24T16:54:08+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000094s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:08+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000115s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:08+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:10+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000121s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000103s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2015-06-24T16:54:10+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000134s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000120s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:10+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000077s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:10+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000122s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:53+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000258s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2015-06-24T16:54:53+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000119s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:53+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000128s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000112s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:54:53+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:55:00+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000063s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000097s ]
+
+[ 2015-06-24T16:55:00+08:00 ] 127.0.0.1 /tp/home/test/Public/css/web1.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000109s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:55:00+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000108s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:55:00+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:55:29+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000107s ]
+
+[ 2015-06-24T16:55:29+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000235s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:55:29+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/seajs-config.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:55:58+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000085s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000119s ]
+
+[ 2015-06-24T16:55:58+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/seajs/seajs/2.2.1/sea.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000138s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:56:15+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000167s ]
+
+[ 2015-06-24T16:56:15+08:00 ] 127.0.0.1 /tp/home/test/Public/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000101s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:56:42+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000104s ]
+
+[ 2015-06-24T16:56:42+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/jquery/jquery/1.10.1/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000124s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:56:42+08:00 ] 127.0.0.1 /tp/home/test/Public/lib/sea-modules/gallery2/bootstrap/3.1.1/bootstrap.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000123s ]
+ERR: 非法操作:Public
+
+[ 2015-06-24T16:57:22+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000181s ]
+
+[ 2015-06-24T16:57:26+08:00 ] 127.0.0.1 /tp/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000115s ]
+
+[ 2015-06-24T17:08:54+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000227s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000121s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000176s ]
+
+[ 2015-06-24T17:09:11+08:00 ] 127.0.0.1 /tp/home/test/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000136s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+NOTIC: [8] Constant __ROOT__ already defined /var/www/tp/Application/Twig/WebExtension.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000103s ]
+
